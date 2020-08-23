@@ -2,7 +2,7 @@
 using namespace std;
  class test
 {
-int a,trt,uyi
+
    
    
     public:
