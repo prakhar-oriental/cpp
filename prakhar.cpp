@@ -2,9 +2,9 @@
 using namespace std;
  class test
 {
-
-    float cg;
-    char grade;
+int a,trt,uyi
+   
+   
     public:
     test(float x,char y)
     {
